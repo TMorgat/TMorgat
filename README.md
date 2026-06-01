@@ -1,16 +1,20 @@
-## Hi there 👋
+Bonjour 👋
 
-<!--
-**TMorgat/TMorgat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Titouan Morgat, étudiant en BTS SIO option SLAM.
 
-Here are some ideas to get you started:
+À propos de moi:
+💻 Passionné par le développement informatique
+🎓 Étudiant en BTS SIO SLAM
+🤖 Intéressé par l’intelligence artificielle
+🔐 Intéressé par la cybersécurité
+🎮 Curieux du développement lié aux jeux vidéo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies étudiées:
+HTML / CSS
+JavaScript
+Python
+C#
+SQL / MySQL
+
+Objectif:
+Développer mes compétences dans le développement web et applicatif à travers mes projets et ma formation.
